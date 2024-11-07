@@ -1,4 +1,4 @@
-# Livraria Online
+# Biblioteca Online
 
 ## Descrição
 A **Livraria Online** é um sistema que oferece acesso a um catálogo de livros acadêmicos focados em Ciência da Computação. O projeto integra uma API externa para fornecer dados dos livros e outras funcionalidades essenciais para os usuários.
