@@ -29,6 +29,9 @@ O site da Livraria Online oferece as seguintes funcionalidades:
 - **Confirmação de E-mail**: Requer validação de e-mail para ativação de conta, garantindo a segurança.
 - **Integração com API**: Os dados dos livros são obtidos a partir da `books-api`, que mantém um repositório atualizado dos títulos disponíveis.
 
+## Diagrama de Processo
+![Livraria](https://github.com/user-attachments/assets/2159e52b-35ef-457f-8e16-5dd13990068d)
+
 ## Observações
 - **Status do Projeto**: Ambos os repositórios (`books-api` e `library`) estão em fase inicial de desenvolvimento, portanto a estrutura e a lógica ainda podem passar por mudanças significativas.
 - **Dependência**: Este projeto (`library`) depende da `books-api` para obter os dados dos livros. 
